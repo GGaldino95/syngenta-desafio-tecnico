@@ -1,6 +1,6 @@
 # Desafio Técnico - Syngenta [2021]
 
-## Requisito:
+### Requisito:
 > _Conte a quantidade de pixels verdes._
 
 <br>
@@ -62,5 +62,10 @@ Desta forma, eu só precisaria me preocupar em verificar os pixels no campo `G` 
 _Minhas impressões: No começo achei que seria algo impossível de se fazer, pois nunca havia tido contato com a manipulação de bitmap, mas por fim acabei me divertindo com este código e adquirindo mais conhecimento, o que é sempre bem-vindo._
 
 <br>
+
+Referências utilizadas para realizar o desafio: <br>
+https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage <br>
+https://developer.mozilla.org/en-US/docs/Web/API/ImageData/ImageData <br>
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas <br>
 
 ### **_Quaisquer dúvidas por favor entrem em contato comigo!_**
